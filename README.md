@@ -1,6 +1,6 @@
 # AllThingsLego
 
-Thanks to www.internetoflego.com (https://github.com/dexterlabora); a bunch of cool code / config organized within a folder.
+Thanks to www.internetoflego.com (https://github.com/dexterlabora); bunch of cool code / config that I have organized in a structure.
 
 Node-RED Basic Flows - basics.json
 
